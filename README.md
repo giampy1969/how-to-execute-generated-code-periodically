@@ -1,4 +1,4 @@
-# How to Execute Code Periodically
+# How to Execute Automatically Generated Code Periodically
 Two guides that explain how to execute generated code periodically on Windows&reg; or Linux&reg; 
 
 [![View how-to-execute-code-periodically on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/62289-how-to-execute-code-periodically)
